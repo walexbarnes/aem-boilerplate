@@ -1,0 +1,1 @@
+{ "project": "Bootcamp", "plugins": [ { "id": "open", "title": "Open Google Drive", "event": "open" } ] }
